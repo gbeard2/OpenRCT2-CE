@@ -21,6 +21,7 @@
 #include "../core/Path.hpp"
 #include "../core/Util.hpp"
 #include "../OpenRCT2.h"
+#include "../config/Config.h"
 #include "platform.h"
 #include "Platform2.h"
 
