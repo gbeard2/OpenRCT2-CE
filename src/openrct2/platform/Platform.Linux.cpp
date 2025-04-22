@@ -111,6 +111,8 @@ namespace Platform
 #ifdef __psp2__
         auto path = std::string("ux0:data/OpenRCT2");
 
+#else
+        auto path = std::string(gConfigGeneral.rct2_path);
 #endif
         if (!path.empty())
         {
