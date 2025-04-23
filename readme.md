@@ -58,9 +58,10 @@ cmake -Bbuild-vita -DCMAKE_BUILD_TYPE=Release -DDISABLE_NETWORK=OFF -DENABLE_LIG
 cd build-vita
 make -j8
 ```
-## Changelog
 - And you got the vpk in build-vita!
-- Make sure ORCT2 compiles with latest GCC for both vita and Linux
+
+## Changelog
+- Made sure ORCT2 compiles with latest GCC for both vita and Linux
 - Made sure OpenSSL 3.0 and older can be used to compile network support
 - Network support on PSVita
 - Fast loading due to native sceIo functions
