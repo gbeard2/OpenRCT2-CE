@@ -2,9 +2,9 @@
 OpenRCT2 for consoles.
 
 ## Currently available ports:
-- PSVita [Installiation](#installiation-vita) [Control scheme](#control-scheme-vita) [Building](#building-vita)
+- PSVita [installation](#installation-vita) [Control scheme](#control-scheme-vita) [Building](#building-vita)
 
-## Installiation vita:
+## installation vita:
 - Get data.zip and openrct2.vpk from the releases tab.
 - Extract data.zip into ux0:data (so that the folder structure is like this:)
 ```
@@ -31,16 +31,16 @@ ux0:data/
 - Have fun!
 
 ## Control scheme vita:
-Cross: Left click
-Square: Right click
-Circle: Hold to speedup cursor
-Triangle: Close all windows
+- Cross: Left click
+- Square: Right click
+- Circle: Hold to speedup cursor
+- Triangle: Close all windows
 
-Left stick: Move mouse cursor
-DPAD: Move viewport around
-Left shoulder button: Rotate view clockwise
-Right shoulder button: Rotate view counter-clockwise
-Start: Chat
+- Left stick: Move mouse cursor
+- DPAD: Move viewport around
+- Left shoulder button: Rotate view clockwise
+- Right shoulder button: Rotate view counter-clockwise
+- Start: Chat
 
 ## Building vita
 (For developers, only linux as host system tested)
